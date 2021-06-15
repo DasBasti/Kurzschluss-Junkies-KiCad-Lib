@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M830520
+D AVX - M830520 - EMBEDDED CERAMIC ANTENNA, 2.442/5.487GHZ
+K
+F http://datasheets.avx.com/ethertronics/AVX-E_M830520.pdf
+$ENDCMP
+#
+#End Doc Library

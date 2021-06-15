@@ -1,0 +1,45 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TPS63021DSJR
+#
+DEF TPS63021DSJR U 0 40 Y Y 1 L N
+F0 "U" -500 750 50 H V L BNN
+F1 "TPS63021DSJR" -500 -850 50 H V L BNN
+F2 "IC_TPS63021DSJR" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "TPS63021DSJR" 0 0 50 H I L BNN "MP"
+F5 "https://snapeda.com/shop?store=DigiKey&id=296571" 0 0 50 H I L BNN "DIGIKEY-PURCHASE-URL"
+F6 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+F7 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F8 "I" 0 0 50 H I L BNN "PARTREV"
+F9 "1.00mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F10 "High Efficiency Single Inductor Buck-Boost Converter with 4A Switch 14-VSON -40 to 85" 0 0 50 H I L BNN "DESCRIPTION"
+F11 "https://snapeda.com/shop?store=Mouser&id=296571" 0 0 50 H I L BNN "MOUSER-PURCHASE-URL"
+F12 "None" 0 0 50 H I L BNN "PRICE"
+F13 "https://snapeda.com/shop?store=Texas+Instruments&id=296571" 0 0 50 H I L BNN "TEXAS_INSTRUMENTS-PURCHASE-URL"
+F14 "Texas Instruments" 0 0 50 H I L BNN "MFANUFACTURER"
+F15 "VSON-14 Texas Instruments" 0 0 50 H I L BNN "PACKAGE"
+DRAW
+S -500 -800 500 700 0 0 10 f
+X VINA 1 -700 300 200 R 40 40 0 0 I 
+X GND 2 700 -700 200 L 40 40 0 0 W 
+X FB 3 700 300 200 L 40 40 0 0 I 
+X VOUT_5 5 700 500 200 L 40 40 0 0 O 
+X L2_6 6 700 -300 200 L 40 40 0 0 P 
+X L1_8 8 700 -100 200 L 40 40 0 0 P 
+X VIN_11 11 -700 500 200 R 40 40 0 0 I 
+X PGND 15 700 -600 200 L 40 40 0 0 W 
+X EN 12 -700 100 200 R 40 40 0 0 I 
+X PS/SYNC 13 -700 0 200 R 40 40 0 0 I 
+X PG 14 700 100 200 L 40 40 0 0 O 
+X VIN_10 10 -700 600 200 R 40 40 0 0 I 
+X VOUT_4 4 700 600 200 L 40 40 0 0 O 
+X L1_9 9 700 -200 200 L 40 40 0 0 P 
+X L2_7 7 700 -400 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# ZX64-B-5S-UNIT(31)
+#
+DEF ZX64-B-5S-UNIT(31) J 0 40 Y Y 1 L N
+F0 "J" -200 330 50 H V L BNN
+F1 "ZX64-B-5S-UNIT(31)" -200 -400 50 H V L BNN
+F2 "HIROSE_ZX64-B-5S-UNIT(31)" 0 0 50 H I L BNN
+F3 "08/01/19" 0 0 50 H I L BNN
+F4 "Hirose Electric" 0 0 50 H I L BNN
+F5 "4.05mm" 0 0 50 H I L BNN
+F6 "Manufacturer Recommendations" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -200 300 200 300 N
+P 2 0 0 10 200 300 200 -300 N
+P 2 0 0 10 200 -300 -200 -300 N
+P 2 0 0 10 -200 -300 -200 300 N
+X VCC 1 -400 200 200 R 40 40 0 0 W 
+X D- 2 -400 100 200 R 40 40 0 0 B 
+X D+ 3 -400 0 200 R 40 40 0 0 B 
+X ID 4 -400 -100 200 R 40 40 0 0 P 
+X GND 5 -400 -200 200 R 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

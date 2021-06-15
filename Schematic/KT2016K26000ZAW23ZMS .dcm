@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KT2016K26000ZAW23ZMS
+D LVCMOS Ultra Low Phase Noise XO / VCXO, Abracon ABLNO
+K XO VCXO
+F https://www.mouser.de/datasheet/2/909/kt2016_e-1388716.pdf
+$ENDCMP
+#
+#End Doc Library

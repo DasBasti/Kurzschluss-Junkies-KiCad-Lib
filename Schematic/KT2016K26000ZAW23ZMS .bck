@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABLNO
+D LVCMOS Ultra Low Phase Noise XO / VCXO, Abracon ABLNO
+K XO VCXO
+F https://abracon.com/Precisiontiming/ABLNO.pdf
+$ENDCMP
+#
+#End Doc Library
